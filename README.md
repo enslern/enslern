@@ -88,20 +88,8 @@ Autonomous research agent that decomposes goals into sub-questions, searches via
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=enslern&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enslern&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
-</div>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com/?user=enslern&theme=radical&hide_border=true" />
 </div>
-
-<!--
-Note: these cards are served by a free shared Vercel instance, which occasionally
-gets rate-limited and shows a broken image. If that happens often, fork
-https://github.com/anuraghazra/github-readme-stats and deploy your own copy to
-your own Vercel account, then swap the domain above for your deployment URL.
--->
 
 <br>
 
